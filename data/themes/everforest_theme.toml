@@ -1,0 +1,41 @@
+# Theme metadata
+name = "everforest_theme"
+
+[dark]
+  # Primary
+  primary = "#272E33"
+
+  # Menu
+  menu_primary = "#1E2326"
+  menu_text = "#83C092"
+  menu_text_active = "#A7C080"
+  menu_title = "#83C092"
+
+  # Links
+  link = "#83C092"
+  link_hover = "#A7C080"
+  link_decoration = "bold"
+
+  # Home sections
+  home_section_odd = "#272E33"
+  home_section_even = "#2E383C"
+
+
+[light]
+  # Primary
+  primary = "#FFFBEF"
+
+  # Menu
+  menu_primary = "#F2EFDF"
+  menu_text = "#5C6A72"
+  menu_text_active = "#708089"
+  menu_title = "#5C6A72"
+
+  # Links
+  link = "#5C6A72"
+  link_hover = "#35A77C"
+  link_decoration = "bold"
+
+  # Home sections
+  home_section_odd = "#FFFBEF"
+  home_section_even = "#F8F5E4"

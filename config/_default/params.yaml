@@ -6,8 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: mcx_theme
-  theme_night: mcx_theme
+  mode: dark
+  color: teal
+  theme_night: everforest_theme
+  theme_day: everforest_theme
   font: minimal
   font_size: L
 
