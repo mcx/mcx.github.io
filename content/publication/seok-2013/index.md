@@ -16,6 +16,10 @@ publication: '*2013 IEEE International Conference on Robotics and Automation (IC
   2013)*'
 doi: 10.1109/ICRA.2013.6631038
 tags:
-- Actuators;Brushless motors;Legged locomotion;Permanent magnet motors;Synchronous
-  motors;Torque
+- Actuators
+- Brushless motors
+- Legged locomotion
+- Permanent magnet motors
+- Synchronous motors
+- Torque
 ---
