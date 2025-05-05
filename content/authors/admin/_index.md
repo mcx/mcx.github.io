@@ -25,14 +25,14 @@ organizations:
     url: www.a-star.edu.sg/i2r
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie at the intersection of legged locomotion and reinforcement learning, with the goal of encouraging widespread adoption of robots in society.
+bio: My research interests lie at the intersection of legged robotics research, reinforcement learning, and embodied AI, with the goal of encouraging widespread adoption of robots in society.
 
 
 # Interests to show in About widget
 interests:
   - Robotics
   - Legged Locomotion
-  - Artificial Intelligence
+  - Embodied Artificial Intelligence (AI)
   - Deep Reinforcement Learning
   - Force and Tactile Sensors
   
