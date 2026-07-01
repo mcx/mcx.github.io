@@ -13,19 +13,18 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "Meng Yee (Michael) Chuah"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
-    type: person # person | organization | local_business
+    type: person
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Senior Scientist | Robotics & Autonomous Systems"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "Personal website of Meng Yee (Michael) Chuah — Senior Scientist at A*STAR I²R, leading research on learning-based quadruped locomotion, force sensing, and terrain-aware robot navigation."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "mcccxx" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -115,7 +114,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} Meng Yee (Michael) Chuah. All rights reserved."
     license:
       type: cc # cc | custom
       allow_derivatives: false

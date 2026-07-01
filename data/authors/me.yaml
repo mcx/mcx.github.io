@@ -2,115 +2,164 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Meng Yee (Michael) Chuah
+  given: Meng Yee (Michael)
+  family: Chuah
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
 postnominals:
   - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+status: {}
+role: Senior Scientist, Robotics & Autonomous Systems
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I am currently leading a team in developing capabilities for quadruped robots. The focus is on using learning-based methods for perceptual locomotion and terrain-awareness, enabling legged robots to safely and robustly navigate both urban areas and unstructured outdoor environments. My research interests lie at the intersection of legged locomotion and reinforcement learning, with the goal of encouraging widespread adoption of robots in society.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Agency for Science, Technology and Research (A*STAR)
+    url: https://www.a-star.edu.sg/
+  - name: Institute for Infocomm Research (I²R)
+    url: https://www.a-star.edu.sg/i2r
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/michaelchuah
+    label: LinkedIn
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?hl=en&user=iBU4CfIAAAAJ
+    label: Google Scholar
+  - icon: brands/github
+    url: https://github.com/mcccxx
+    label: GitHub
+  - icon: at-symbol
+    url: mailto:mcccxx@gmail.com
+    label: E-mail Me
 
 interests:
-  - Large Language Models
-  - Computer Vision
+  - Legged Locomotion
   - Reinforcement Learning
-  - AI Ethics
+  - Force Sensing
+  - Terrain Perception
+  - Multi-Axis Sensors
+  - Robotic Perception
+  - Digital Twins
+  - Learning-Based Control
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD in Mechanical Engineering
+    institution: Massachusetts Institute of Technology (MIT)
+    start: 2013-01-01
+    end: 2018-06-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      **Design Principles for Multi-Axis, Large Force Magnitude Sensor Arrays for Use in Human and Robotic Applications.**
+      Developed low-cost, lightweight multi-axis force sensors for the MIT Cheetah robot and force-sensing smart shoes for gait analysis. Supervisor: Sangbae Kim.
+      [Download thesis](https://dspace.mit.edu/handle/1721.1/119276)
     button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      text: View thesis
+      url: https://dspace.mit.edu/handle/1721.1/119276
+  - degree: MSc in Mechanical Engineering
+    institution: Massachusetts Institute of Technology (MIT)
+    start: 2010-09-01
+    end: 2012-09-30
+    summary: |
+      Worked on the design and fabrication of the MIT Cheetah robot, featured in CBS News, USA Today, TIME magazine, Discovery News, and IEEE Spectrum.
+  - degree: BS in Mechanical Engineering, Minor in Robotics
+    institution: Carnegie Mellon University (CMU)
+    start: 2006-09-01
+    end: 2009-12-31
+    summary: |
+      Graduated with 4.0/4.0 GPA. Dean's List – Bennett Award Winner.
+    button:
+      text: View award
+      url: https://www.cmu.edu/me/current/undergraduate/deans-list-and-student-awards.html
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Senior Scientist
+    org: A*STAR – Institute for Infocomm Research (I²R)
+    location: Singapore
+    start: 2023-07-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Leading a team developing quadruped robot capabilities using learning-based methods for perceptual locomotion and terrain-awareness.
+  - role: Research Scientist
+    org: A*STAR – Institute for Infocomm Research (I²R)
+    location: Singapore
+    start: 2018-08-01
+    end: 2023-06-30
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Conducted research in robotic sensing, legged locomotion, and multi-axis force sensors.
 
 skills:
-  - name: Technical Skills
+  - name: Programming & Machine Learning
     items:
+      - label: C / C++
+        level: 5
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: PyTorch
         level: 5
-      - label: Cloud Computing
+      - label: TensorFlow
         level: 4
-  - name: Research & Communication
+      - label: ROS
+        level: 5
+      - label: Git / Docker
+        level: 5
+  - name: Robotics & Sensing
     items:
-      - label: Academic Writing
+      - label: Legged Locomotion
         level: 5
-      - label: Conference Presentations
+      - label: Force Sensing
+        level: 5
+      - label: Computer Vision (OpenCV)
         level: 4
-      - label: Grant Proposals
+      - label: Reinforcement Learning
+        level: 5
+  - name: CAD & Simulation
+    items:
+      - label: SolidWorks (CSWA)
+        level: 5
+      - label: Fusion 360
         level: 4
+      - label: MATLAB
+        level: 5
+      - label: Abaqus FEA
+        level: 4
+  - name: Fabrication
+    items:
+      - label: 3D Printing
+        level: 5
+      - label: PCB Design
+        level: 4
+      - label: Embedded Systems
+        level: 4
+      - label: CNC / Lathe
+        level: 3
 
 languages:
   - name: English
     level: 5
     label: Native
-  - name: Spanish
+  - name: Chinese
     level: 4
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: National Science Scholarship (PhD)
+    awarder: A*STAR
+    date: "2010-01-01"
+    summary: Top graduate scholarship for PhD studies at MIT.
+  - title: Best Paper Award Finalist
+    awarder: ICRA 2014
+    date: "2014-06-01"
+    summary: One of five finalists for best paper award out of 2,600 submitted papers.
+  - title: MIT Sandbox Funding Awardee
+    awarder: MIT Sandbox Innovation Fund Program
+    date: "2017-04-01"
+    summary: Seed funding of up to $25,000 for student-initiated ideas.
+  - title: Grand Prize Winner
+    awarder: MIT Mechanical Engineering Research Exhibition
+    date: "2014-10-01"
+    summary: Featured research presentations from ~70 graduate students.
+  - title: Dean's List – Bennett Award
+    awarder: Carnegie Mellon University
+    date: "2010-05-01"
+    summary: Highest QPA in Mechanical Engineering.
