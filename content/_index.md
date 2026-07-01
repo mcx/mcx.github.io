@@ -31,26 +31,14 @@ sections:
         shape: circle
 
   - block: collection
-    id: papers
+    id: publications
     content:
-      title: Selected Publications
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-
-  - block: collection
-    content:
-      title: All Publications
+      title: Publications
       text: |
         [Google Scholar](https://scholar.google.com/citations?hl=en&user=iBU4CfIAAAAJ)
       filters:
         folders:
           - publications
-        exclude_featured: false
     design:
       view: citation
 
