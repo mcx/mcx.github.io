@@ -5,7 +5,7 @@ date:
 publishDate: 2018-01-01
 
 publication_types: ["conference_paper"]
-publication: [2018 IEEE International Conference on Robotics and Automation (ICRA)]
+publication: "2018 IEEE International Conference on Robotics and Automation (ICRA)"
 
 url_preprint: "https://doi.org/10.1109/ICRA.2018.8460575"
 url_code: ""

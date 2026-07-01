@@ -5,7 +5,7 @@ date:
 publishDate: 2014-05-01
 
 publication_types: ["journal_article"]
-publication: [Sensors Journal, IEEE]
+publication: "Sensors Journal, IEEE"
 
 url_preprint: "https://doi.org/10.1109/JSEN.2014.2299805"
 url_code: ""
